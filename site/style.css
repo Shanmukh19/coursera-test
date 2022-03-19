@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+}
+h1{
+	text-align:center;
+}
+.sec1{
+	border: 3px solid black;
+	margin-bottom: 3px;
+	width:30%;
+}
+.sec2{
+	border: 3px solid black;
+	margin-bottom: 3px;
+
+}
+.sec3{
+	border: 3px solid black;
+
+
+}
